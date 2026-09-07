@@ -235,3 +235,6 @@ This repository serves as the official landing page for East-Tec Eraser. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of East-Tec Eraser today!**
+
+---
+**Last updated:** 2026-09-07 23:55:13 UTC
